@@ -7,7 +7,7 @@ These are the chef names and their specialities to choose from:
 
         Yogesh - Indian Yoga & Ayurveda
         Ashioyajotham - African Cuisine
-        Dfst - Mexican Cuisine
+        DFST - Italian Cuisine
         Rahu - Indian Vegetarian Cuisine
         Asad - Italian Cuisine
         Abdul - Arabic Cuisine
@@ -31,7 +31,7 @@ These are the chef names and their specialities to choose from:
 
         Yogesh - Indian Yoga & Ayurveda
         Ashioyajotham - African Cuisine
-        Dfst - Mexican Cuisine
+        Dfst - Italian Cuisine
         Rahu - Indian Vegetarian Cuisine
         Asad - Italian Cuisine
         Abdul - Arabic Cuisine
@@ -82,7 +82,7 @@ These are the chef names and their specialities to choose from:
 
         Yogesh - Indian Yoga & Ayurveda
         Ashioyajotham - African Cuisine
-        Dfst - Mexican Cuisine
+        DFST - Italian Cuisine
         Rahu - Indian Vegetarian Cuisine
         Asad - Italian Cuisine
         Abdul - Arabic Cuisine
