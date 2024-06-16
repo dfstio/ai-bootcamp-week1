@@ -1,0 +1,124 @@
+❯ python main.py
+
+ -------------------------------------------------------------------------------------------------
+
+Welcome to the Chef Assistant. What would you like to do?
+These are the chef names and their specialities to choose from:
+
+        Yogesh - Indian Yoga & Ayurveda
+        Ashioyajotham - African Cuisine
+        Dfst - Mexican Cuisine
+        Rahu - Indian Vegetarian Cuisine
+        Asad - Italian Cuisine
+        Abdul - Arabic Cuisine
+        Exit - To exit
+        
+Enter Chef Name:
+Abdul
+Select one of the following options for:
+                    1. provide ingredients to suggest a dish name
+                    2. provide a dish name to get a detailed recipe
+                    3. Provide a recipe for a dish to get a critique of it and get suggestions to improve it                    
+1
+Enter Ingredients:
+Chickpeas, Tahini, Sumac, olive oil
+##############   This is your chef: abdul   ##############
+**Sumac-roasted Chickpeas with Tahini Drizzle**
+ -------------------------------------------------------------------------------------------------
+
+Welcome to the Chef Assistant. What would you like to do?
+These are the chef names and their specialities to choose from:
+
+        Yogesh - Indian Yoga & Ayurveda
+        Ashioyajotham - African Cuisine
+        Dfst - Mexican Cuisine
+        Rahu - Indian Vegetarian Cuisine
+        Asad - Italian Cuisine
+        Abdul - Arabic Cuisine
+        Exit - To exit
+        
+Enter Chef Name:
+Asad
+Select one of the following options for:
+                    1. provide ingredients to suggest a dish name
+                    2. provide a dish name to get a detailed recipe
+                    3. Provide a recipe for a dish to get a critique of it and get suggestions to improve it                    
+2
+Enter Dish Name:
+margharita pizza
+##############   This is your chef: asad   ##############
+Margherita pizza is a classic Italian pizza that features simple yet delicious ingredients: tomato, fresh mozzarella, basil, extra virgin olive oil, and salt. Here's a traditional recipe to make a Margherita pizza at home:
+
+Ingredients:
+- 1 package of pizza dough (store-bought or homemade)
+- 1 can (14 oz) of crushed tomatoes
+- 1-2 cloves of garlic, minced
+- Fresh basil leaves
+- 8 oz fresh mozzarella, sliced
+- Extra virgin olive oil
+- Salt
+- Optional: red pepper flakes for a bit of heat
+
+Instructions:
+1. Preheat your oven to the highest temperature it can reach (typically around 500°F or 260°C). If you have a pizza stone, place it in the oven while it preheats.
+
+2. In a small saucepan, heat a splash of olive oil over medium heat. Add the minced garlic and sauté for about 1 minute until fragrant. Be careful not to brown the garlic. Add the crushed tomatoes and a pinch of salt. Simmer the sauce for about 15-20 minutes until it thickens slightly.
+
+3. While the sauce is simmering, prepare your pizza dough. Roll out the dough on a floured surface into a circle (or your desired shape) to your preferred thickness. Transfer the dough to a pizza peel or an inverted baking sheet dusted with cornmeal to prevent sticking.
+
+4. Once the sauce is ready, spread it evenly over the pizza dough, leaving a small border for the crust. Tear the fresh basil leaves and scatter them over the sauce. Add the sliced mozzarella on top.
+
+5. Drizzle a bit of olive oil over the pizza and season with a pinch of salt. If you like a bit of heat, sprinkle some red pepper flakes over the pizza.
+
+6. Carefully slide the pizza onto the preheated pizza stone or baking sheet in the oven. Bake for about 10-12 minutes, or until the crust is golden and crispy, and the cheese is melted and bubbly.
+
+7. Once the pizza is done, remove it from the oven and let it cool slightly. Before serving, garnish with a few fresh basil leaves and another drizzle of olive oil if desired.
+
+8. Slice the Margherita pizza and enjoy it hot! Buon Appetito!
+ -------------------------------------------------------------------------------------------------
+
+Welcome to the Chef Assistant. What would you like to do?
+These are the chef names and their specialities to choose from:
+
+        Yogesh - Indian Yoga & Ayurveda
+        Ashioyajotham - African Cuisine
+        Dfst - Mexican Cuisine
+        Rahu - Indian Vegetarian Cuisine
+        Asad - Italian Cuisine
+        Abdul - Arabic Cuisine
+        Exit - To exit
+        
+Enter Chef Name:
+Yogesh
+Select one of the following options for:
+                    1. provide ingredients to suggest a dish name
+                    2. provide a dish name to get a detailed recipe
+                    3. Provide a recipe for a dish to get a critique of it and get suggestions to improve it                    
+3
+Enter Recipe:
+Herbal tea: Use tea powder and then boil it in water , add sugar and milk to taste
+##############   This is your chef: yogesh   ##############
+Instead of using tea powder, sugar, and milk, I would recommend a healthier and more Ayurvedic-friendly version of herbal tea.
+
+Ayurvedic Herbal Tea Recipe:
+Ingredients:
+- 4 cups of water
+- 1-inch piece of fresh ginger, peeled and sliced
+- 1 cinnamon stick
+- 4-5 cardamom pods, lightly crushed
+- 1-2 cloves
+- 1-2 black peppercorns
+- 1 tsp of loose leaf black, green, or herbal tea of your choice (such as chamomile, tulsi, or licorice)
+- Honey or jaggery to taste (optional)
+
+Instructions:
+1. In a saucepan, bring the water to a boil.
+2. Add the ginger, cinnamon stick, cardamom pods, cloves, and black peppercorns to the boiling water.
+3. Reduce the heat and let the spices simmer for about 5-10 minutes to infuse their flavors into the water.
+4. Add the loose leaf tea of your choice and continue to simmer for another 2-3 minutes.
+5. Remove the saucepan from the heat and let the tea steep for an additional 3-5 minutes.
+6. Strain the tea into cups and sweeten with honey or jaggery if desired.
+
+This Ayurvedic herbal tea recipe incorporates warming spices like ginger, cinnamon, cardamom, and cloves, which help with digestion and provide various health benefits. By avoiding processed tea powder, sugar, and milk, this herbal tea recipe provides a wholesome and rejuvenating beverage that supports overall well-being and balances the body according to Ayurvedic principles.
+
+
