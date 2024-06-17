@@ -34,7 +34,7 @@ while True:
     print("\n\
         Yogesh - Indian Yoga & Ayurveda\n\
         Ashioyajotham - African Cuisine\n\
-        Dfst - Mexican Cuisine\n\
+        dfst - Toscana Cuisine\n\
         Rahu - Indian Vegetarian Cuisine\n\
         Asad - Italian Cuisine\n\
         Abdul - Arabic Cuisine\n\
